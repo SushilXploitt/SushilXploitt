@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
-  <rect width="1400" height="360" fill="#0d1117"/>
-  <g fill="none" stroke="#00ff88" opacity="0.18">
-    <path d="M0 60 H250 L310 120 H540 L610 60 H900 L970 130 H1400" stroke-width="2"/>
-    <path d="M0 300 H190 L270 220 H500 L560 300 H830 L910 230 H1180 L1260 300 H1400" stroke-width="2"/>
-    <path d="M110 0 V80 M210 0 V40 M1190 0 V90 M1280 0 V50 M95 360 V290 M1300 360 V270" stroke-width="2"/>
-  </g>
-  <g fill="#00ff88">
-    <circle cx="310" cy="120" r="5"/><circle cx="610" cy="60" r="5"/><circle cx="970" cy="130" r="5"/>
-    <circle cx="270" cy="220" r="5"/><circle cx="910" cy="230" r="5"/><circle cx="1260" cy="300" r="5"/>
-  </g>
-  <text x="70" y="135" fill="#00ff88" font-family="monospace" font-size="26">root@security-architecture:~$</text>
-  <text x="70" y="205" fill="#f0f6fc" font-family="monospace" font-size="54" font-weight="700">DEFEND • DETECT • DESIGN</text>
-  <text x="72" y="255" fill="#8b949e" font-family="monospace" font-size="22">OT / ICS SECURITY  |  CYBER ARCHITECTURE  |  ADVERSARY EMULATION</text>
-  <rect x="70" y="285" width="760" height="4" fill="#00ff88" opacity="0.7"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060b12"/><stop offset="1" stop-color="#111027"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#00e5ff"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs><rect width="1600" height="420" fill="url(#bg)"/><g opacity=".38" fill="none" stroke="#1e4a5a"><path d="M0 75H220L285 140H530L610 60H870L940 135H1600"/><path d="M0 355H170L250 275H515L590 350H880L970 255H1230L1310 330H1600"/><path d="M125 0V95M245 0V48M1390 0V110M1490 0V60M90 420V315M1480 420V300"/></g><g fill="#00e5ff" opacity=".8"><circle cx="285" cy="140" r="5"/><circle cx="610" cy="60" r="5"/><circle cx="940" cy="135" r="5"/></g><text x="92" y="125" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">SECURITY ARCHITECTURE • OT / ICS • ADVERSARY EMULATION</text><text x="92" y="220" fill="#f8fafc" font-family="Arial, sans-serif" font-size="72" font-weight="700">SUSHIL KUMAR DASH</text><rect x="92" y="252" width="1020" height="5" rx="2" fill="url(#accent)"/><text x="92" y="315" fill="#b7c3d4" font-family="Arial, sans-serif" font-size="27">Designing resilient security architectures for critical environments.</text><text x="92" y="365" fill="#64748b" font-family="monospace" font-size="18">[ BUILD ]  [ VALIDATE ]  [ DETECT ]  [ IMPROVE ]</text></svg>
