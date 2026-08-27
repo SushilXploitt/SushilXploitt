@@ -1,123 +1,177 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SushilXploitt/SushilXploitt/main/assets/cyber-banner.svg" width="100%" alt="Sushil Kumar Dash — Security Architecture" />
+<img src="https://raw.githubusercontent.com/SushilXploitt/SushilXploitt/main/assets/command-center-banner.svg" width="100%" alt="Cyber Command Center" />
 
-<br/>
+<img src="https://raw.githubusercontent.com/SushilXploitt/SushilXploitt/main/assets/cyber-identity.svg" width="135" alt="Sushil Kumar Dash cyber identity" />
 
-<img src="https://raw.githubusercontent.com/SushilXploitt/SushilXploitt/main/assets/security-architecture-mark.svg" width="150" alt="Security architecture mark" />
-
-# Hi, I'm Sushil Kumar Dash 👋
-### Cybersecurity • OT / ICS Security • Security Architecture • Adversary Emulation
+# SUSHIL KUMAR DASH <code>&gt;_</code>
+### Cybersecurity Architect • OT / ICS Security • Practice Leadership • Adversary Emulation
 
 <p>
-<img src="https://img.shields.io/badge/OT%20%26%20ICS-SECURITY-00E5FF?style=for-the-badge&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/SECURITY-ARCHITECTURE-7C3AED?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-CRITICAL%20ENVIRONMENTS-EC4899?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/OT%20%2F%20ICS-SECURITY-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SECURITY-ARCHITECTURE-00B8D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADVERSARY-EMULATION-E53935?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CRITICAL-INFRASTRUCTURE-7E57C2?style=for-the-badge" />
 </p>
 
 </div>
 
-## 👨‍💻 About Me
-
-I work at the intersection of **cybersecurity architecture, Operational Technology (OT), industrial resilience, risk, and defensive security validation**.
-
-My approach is straightforward: understand the business and operational context, identify what matters most, design practical controls, and validate whether those controls actually provide the intended outcome.
-
-> **Think strategically. Design practically. Validate with evidence.**
-
 ---
 
-## 🧭 Professional Focus
-
 <table>
-<tr><td width="50%">
+<tr>
+<td width="34%" valign="top">
 
-### 🏭 OT & ICS Security
-Industrial cybersecurity, asset risk, segmentation, secure remote access and resilience.
+## <code>&gt; PROFILE</code>
 
-</td><td width="50%">
+**Role**  
+Security Architect & Practice Leader
 
-### 🏗️ Security Architecture
-Reference architectures, defence in depth, Zero Trust principles and security transformation.
+**Focus**  
+OT / ICS • Enterprise Security • Cyber Resilience
 
-</td></tr>
-<tr><td>
+**Operating Model**  
+Build → Validate → Improve
 
-### 🔴 Adversary Emulation
-Authorized scenario-driven exercises focused on measurable security control validation.
+**Mission**  
+Design resilient security architectures for complex and critical environments.
 
-</td><td>
+### <code>&gt; CERTIFICATIONS</code>
 
-### 🟣 Detection & Purple Teaming
-Telemetry, detection coverage, response validation and continuous improvement.
+`CISSP (ISC)² Trained`  
+`CISM`  
+`OSCP`  
+`CEH` • `CHFI`  
+`CCSK`  
+`AZ-500 / AZ-900`  
+`Fortinet NSE`  
+`Juniper JCHNP`
 
-</td></tr>
+### <code>&gt; CURRENT_FOCUS</code>
+
+🟢 OT Security Analytics  
+🔴 Adversary Emulation  
+🟣 Detection Validation  
+🔵 Security Architecture
+
+</td>
+<td width="66%" valign="top">
+
+## <code>&gt; WHO_AM_I</code>
+
+I work at the intersection of **cybersecurity architecture, Operational Technology, critical infrastructure, cyber resilience, risk, and security validation**.
+
+My work focuses on translating complex security problems into **practical architectures, measurable controls, and executive-level decisions**.
+
+> **Think like an adversary. Design like an architect. Lead with resilience.**
+
+### <code>&gt; CORE_CAPABILITIES</code>
+
+```text
+[████████████████████]  OT / ICS Security Architecture
+[███████████████████ ]  Security Architecture & Transformation
+[██████████████████  ]  Adversary Emulation & Control Validation
+[███████████████████ ]  Threat Modeling & Cyber Risk
+[█████████████████   ]  Purple Team & Detection Engineering
+[██████████████████  ]  Security Practice & GTM Leadership
+[███████████████████ ]  Cyber Resilience & Incident Response
+```
+
+### <code>&gt; SECURITY_DOMAINS</code>
+
+| 🏭 Critical Infrastructure | 🏗️ Enterprise Architecture | 🔴 Security Validation |
+|---|---|---|
+| OT / ICS Security | Zero Trust | Adversary Emulation |
+| IT/OT Segmentation | Network Security | Purple Teaming |
+| Asset Visibility | Cloud Security | Detection Coverage |
+| OT SOC | IAM / PAM | Threat Modeling |
+| IEC 62443 / NIST-aligned thinking | Security Transformation | Risk Prioritization |
+
+</td>
+</tr>
 </table>
 
 ---
 
-## ⚙️ Technology & Practice Areas
+## <code>&gt; FEATURED_PROJECTS</code>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,github,vscode" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<code>OT Security</code> • <code>ICS</code> • <code>Threat Modeling</code> • <code>Cyber Risk</code> • <code>Network Segmentation</code> • <code>Zero Trust</code> • <code>Detection Engineering</code> • <code>Security Analytics</code>
-</p>
+### 🏭 Operational Technology
+**OT Passive Security Analytics Toolkit**
+
+A growing collection of defensive analytics concepts for asset criticality, risk prioritization, communication visibility, architecture review, and security decision support.
+
+`Python` `Security Analytics` `OT` `ICS` `Risk`
+
+➡️ **Explore:** https://github.com/SushilXploitt/Operational-Technology
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 Red Team & Adversary Emulation
+**Security Validation Knowledge Base**
+
+A structured repository focused on authorized adversary emulation, engagement governance, scenario design, detection validation, purple teaming, and measurable security improvement.
+
+`Red Team` `Purple Team` `Detection` `Threat Modeling`
+
+➡️ **Explore:** https://github.com/SushilXploitt/Red-Team-Adversary-Emulation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏭 [Operational Technology](https://github.com/SushilXploitt/Operational-Technology)
-**Passive security analytics and decision-support concepts for OT and industrial environments.**
-
-`Asset Risk` · `Criticality` · `Passive Analytics` · `Architecture Validation`
-
-### 🔴 [Red Team & Adversary Emulation](https://github.com/SushilXploitt/Red-Team-Adversary-Emulation)
-**A structured knowledge base for authorized adversary emulation, purple-team exercises and detection validation.**
-
-`Engagement Governance` · `Scenario Design` · `Detection Coverage` · `Security Improvement`
-
----
-
-## 🧠 How I Think About Security
+## <code>&gt; ARCHITECTURE_MINDSET</code>
 
 ```text
- BUSINESS & OPERATIONS
-          │
-          ▼
-     [ UNDERSTAND ]
-          │
-          ▼
-       [ DESIGN ]
-          │
-          ▼
-      [ VALIDATE ]
-          │
-          ▼
-      [ IMPROVE ]
+        BUSINESS & MISSION
+                │
+                ▼
+        [ UNDERSTAND RISK ]
+                │
+                ▼
+        [ DESIGN CONTROLS ]
+                │
+                ▼
+        [ VALIDATE EFFECTIVENESS ]
+                │
+                ▼
+        [ IMPROVE RESILIENCE ]
 ```
 
-**Principles:** Safety • Resilience • Visibility • Risk-based decisions • Defence in depth • Least privilege • Evidence-led validation
+**Principles:** `Safety` • `Resilience` • `Visibility` • `Defense in Depth` • `Least Privilege` • `Risk-Based Decisions` • `Evidence-Led Validation`
 
 ---
 
-## 📌 Current Build
+## <code>&gt; CYBER_STACK</code>
 
-🟢 **Building:** OT Passive Security Analytics Toolkit  
-🟣 **Developing:** Detection Validation & Adversary Emulation Knowledge Base  
-🔵 **Exploring:** Architecture-driven cybersecurity analytics
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode" />
+</p>
+
+<p align="center">
+<code>OT Security</code> • <code>ICS</code> • <code>IEC 62443</code> • <code>Zero Trust</code> • <code>Threat Modeling</code> • <code>MITRE ATT&CK</code> • <code>Cyber Risk</code> • <code>SOC</code> • <code>Security Architecture</code>
+</p>
 
 ---
+
+## <code>&gt; PROFESSIONAL_PERSPECTIVE</code>
+
+```text
+> SECURITY IS NOT ONLY ABOUT FINDING WEAKNESSES.
+> IT IS ABOUT UNDERSTANDING CONSEQUENCES.
+> ARCHITECTURE IS THE DISCIPLINE OF TURNING RISK INTO RESILIENCE.
+```
 
 <div align="center">
 
-### 🤝 Let's connect around cybersecurity, OT security and security architecture
+<img src="https://komarev.com/ghpvc/?username=SushilXploitt&label=COMMAND%20CENTER%20VISITS&color=00C853&style=flat-square" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=SushilXploitt&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
-
-**Security is not a product. It is an architecture of people, process, technology and evidence.**
+### `BUILDING • LEARNING • SECURING`
 
 </div>
